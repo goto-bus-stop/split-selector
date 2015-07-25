@@ -1,6 +1,6 @@
 { "name": "split-selector"
 , "description": "Split a CSS selector group into individual parts"
-, "version": "0.0.1"
+, "version": "1.0.0"
 , "license": "MIT"
 , "keywords": [ "css", "selector", "split" ]
 , "repository": "goto-bus-stop/split-selector"
