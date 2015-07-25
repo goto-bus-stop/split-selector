@@ -1,0 +1,24 @@
+a, #b
+  a
+  #b
+
+a[b], b[a="a, b"]
+  a[b]
+  b[a="a, b"]
+
+a[b], b[a="a] b"]
+  a[b]
+  b[a="a] b"]
+
+q q, el[attr=a\]b]
+  q q
+  el[attr=a\]b]
+
+x, y[z="bra]ck\"et"]
+  x
+  y[z="bra]ck\"et"]
+
+x, y, z
+  x
+  y
+  z

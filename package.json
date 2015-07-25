@@ -1,0 +1,9 @@
+{ "name": "split-selector"
+, "description": "Split a CSS selector group into individual parts"
+, "version": "0.0.1"
+, "license": "MIT"
+, "keywords": [ "css", "selector", "split" ]
+, "repository": "goto-bus-stop/split-selector"
+, "author": "goto-bus-stop <rene@kooi.me>"
+, "scripts":
+  { "test": "node test" } }
